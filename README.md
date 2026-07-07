@@ -11,6 +11,6 @@ A research paper based on 9 malicious malware families
 9. Gatak 
 
 for the comparative study of 3 classification algorithms:
-1. Rando Forest
+1. Random Forest
 2. Descision Tree
 3. Naive Bayes
